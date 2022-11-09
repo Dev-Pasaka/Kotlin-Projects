@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Encryption-Decryption.Encryption-Decryption-task.main" target="16" />
+      <module name="Encryption-Decryption.Topics-Equality-Equality.main" target="16" />
+      <module name="Encryption-Decryption.Topics-Equality-How_to_compare.main" target="16" />
+      <module name="Encryption-Decryption.Topics-Equality-How_to_compare__1_.main" target="16" />
+      <module name="Encryption-Decryption.Topics-Equality-Kings_of_Sweden.main" target="16" />
+      <module name="Encryption-Decryption.Topics-Equality-Referential_equality.main" target="16" />
+      <module name="Encryption-Decryption.Topics-Equality-The_same_object.main" target="16" />
+      <module name="Encryption-Decryption.Topics-Equality-Theory.main" target="16" />
+      <module name="Encryption-Decryption.Topics-Equality-True_captain.main" target="16" />
+      <module name="Encryption-Decryption.Topics-For_loop_and_lists-Circular_shift.main" target="16" />
+      <module name="Encryption-Decryption.Topics-For_loop_and_lists-Count_occurrences.main" target="16" />
+      <module name="Encryption-Decryption.Topics-For_loop_and_lists-For_loops_task.main" target="16" />
+      <module name="Encryption-Decryption.Topics-For_loop_and_lists-Individual_taxes.main" target="16" />
+      <module name="Encryption-Decryption.Topics-For_loop_and_lists-List_indexes.main" target="16" />
+      <module name="Encryption-Decryption.Topics-For_loop_and_lists-Number_in_a_set.main" target="16" />
+      <module name="Encryption-Decryption.Topics-For_loop_and_lists-Print_all_elements.main" target="16" />
+      <module name="Encryption-Decryption.Topics-For_loop_and_lists-Right_Rotation.main" target="16" />
+      <module name="Encryption-Decryption.Topics-For_loop_and_lists-Sum_of_numbers.main" target="16" />
+      <module name="Encryption-Decryption.Topics-For_loop_and_lists-The_index_of_the_first_max.main" target="16" />
+      <module name="Encryption-Decryption.Topics-For_loop_and_lists-Theory.main" target="16" />
+      <module name="Encryption-Decryption.Topics-For_loop_and_lists-Triples.main" target="16" />
+      <module name="Encryption-Decryption.Topics-For_loop_and_lists-Two_numbers_in_a_row.main" target="16" />
+      <module name="Encryption-Decryption.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_integers.main" target="16" />
+      <module name="Encryption-Decryption.Topics-Introduction_to_MutableList-Theory.main" target="16" />
+      <module name="Encryption-Decryption.util.main" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
